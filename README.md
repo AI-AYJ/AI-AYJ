@@ -1,10 +1,9 @@
-<h3 align="center">🎥 비디오/이미지 기반 멀티모달 AI를 연구 중인 학부생입니다 👩‍💻</h3>
+<h1 align="center">Hi 👋 I'm Ayoung</h1>
 
 <p align="center">
-  건양대학교 4학년 · 인공지능학과 <br/>
-  Deep Learning · Computer Vision · Multimodal AI
+🎥 Open-Vocabulary Vision AI & Multimodal Learning<br>
+👩‍💻 Undergraduate Researcher @ Konyang University
 </p>
-
 ---
 
 ### 📄 논문
