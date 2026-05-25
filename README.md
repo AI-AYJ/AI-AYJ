@@ -4,6 +4,10 @@
 🎥 Open-Vocabulary Vision AI & Multimodal Learning<br>
 👩‍💻 Undergraduate Researcher @ Konyang University
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=220&section=header&text=Ayoung%20Kim&fontSize=45" />
+</p>
 ---
 
 ### 📄 논문
