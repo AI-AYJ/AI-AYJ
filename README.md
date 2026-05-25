@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Ayoung%20Jung&fontSize=42&fontColor=f5f5f5&animation=fadeIn" width="100%" />
