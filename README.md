@@ -1,7 +1,7 @@
 <h3 align="center">🎥 비디오/이미지 기반 멀티모달 AI를 연구 중인 학부생입니다 👩‍💻</h3>
 
 <p align="center">
-  건양대학교 3학년 · 인공지능학과 <br/>
+  건양대학교 4학년 · 인공지능학과 <br/>
   Deep Learning · Computer Vision · Multimodal AI
 </p>
 
@@ -59,7 +59,7 @@
 - CLIP 기반 Video-Text 검색에서 프레임 샘플링과 시간적 표현 기법이 성능에 미치는 영향 분석
 - [DYQ] CTG후처리 모듈을 활용한 Open-vocabulary segmentation 연구
 - [ETRI INTERN] 시각장애인 보행 안내를 위한 Open-vocabulary 객체 탐지 기법
-- [LAP-CORPS] 영상 콘텐츠 자동 현지화 프레임워크
+- [LAB-CORPS] 영상 콘텐츠 자동 현지화 프레임워크
   
 ---
 ###  인턴
